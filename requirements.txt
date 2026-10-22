@@ -1,7 +1,10 @@
+
 --extra-index-url https://download.pytorch.org/whl/cpu
+
 huggingface-hub>=0.34.4
 sentence-transformers>=5.0.0
 torch>=2.7.1
+torchvision
 langchain==0.3.27
 langchain-community==0.3.27
 langchain-huggingface==0.3.1
